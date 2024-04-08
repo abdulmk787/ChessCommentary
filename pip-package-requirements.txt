@@ -1,0 +1,6 @@
+chess
+numpy
+pandas
+torch
+accelerate
+transformers
